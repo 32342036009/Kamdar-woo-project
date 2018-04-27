@@ -1,0 +1,814 @@
+/************ STYLING FOR RAPID STOCK MANAGER & DEFAULTED ATTRIBUTES ******************/
+
+.display-none {
+    display: none;
+}
+
+.woocommerce-rapid-stock-manager select.select-update-action {
+    width: 100%;
+}
+
+/****************** TABLE STYLING FOR RAPID STOCK MANAGER *************************/
+
+#col-container {
+    overflow: auto;
+}
+
+/* table on rapid stock manager */
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table {
+    /*table-layout: fixed;*/
+    margin: 10px 0px;
+}
+
+/* defaulted colors for rapid stock manager */
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table tr:nth-child(even) {
+    background: #f9f9f9;
+    color: #ffffff;
+
+    -moz-transition: background 0.3s ease-in-out;
+    -webkit-transition: background 0.3s ease-in-out;
+    -o-transition: background 0.3s ease-in-out;
+    transition: background 0.3s ease-in-out;
+}
+
+/* variation grid container */
+.woocommerce-rapid-stock-manager .variation-container,
+.woocommerce-rapid-stock-manager .simple-products-container {
+    padding-top: 10px;
+}
+
+.woocommerce-rapid-stock-manager .variation-container .woocommerce-rapid-stock-manager-table td.product:hover {
+    background: #fff;
+}
+
+/* not show any hovering on thead rapid stock manager */
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table thead tr:first-child {
+    background: transparent;
+    border-right: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+/* pointer for icons */
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table i {
+    cursor: pointer;
+}
+
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table td {
+    border-right: 1px solid #e1e1e1;
+    transition: all 0.5s ease-in;
+}
+
+/* bordering for table rows and thead */
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table td,
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table th {
+    border-right: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table th {
+    font-size: 11px;
+}
+
+.woocommerce-rapid-stock-manager .woocommerce-rapid-stock-manager-table td.image img {
+    max-width: 70px;
+    max-height: 70px;
+}
+
+.woocommerce-rapid-stock-manager input[type="number"] {
+    width: 40px;
+}
+
+/* remove wordpress a focus */
+.woocommerce-rapid-stock-manager-table a:focus {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+/****************** END TABLE STYLING FOR RAPID STOCK MANAGER ***************************/
+
+/****************** SIMPLE PRODUCTS  RAPID STOCK MANAGER ***************************/
+
+.woocommerce-rapid-stock-manager table[data-table-view="simple"] .manage-stock.green,
+.woocommerce-rapid-stock-manager table[data-table-view="simple"] .stock-status.green {
+    color: #3ab300;
+    font-weight: bold;
+}
+
+.woocommerce-rapid-stock-manager table[data-table-view="simple"] .manage-stock.red,
+.woocommerce-rapid-stock-manager table[data-table-view="simple"] .stock-status.red {
+    color: #b31d00;
+    font-weight: bold;
+}
+
+.woocommerce-rapid-stock-manager table[data-table-view="simple"] td.total {
+    /*position: relative;*/
+}
+
+/****************** END SIMPLE PRODUCTS  RAPID STOCK MANAGER ***************************/
+
+/****************** VARIANT PRODUCTS  RAPID STOCK MANAGER ***************************/
+
+.woocommerce-rapid-stock-manager table[data-table-view="variant"] td .icon,
+.woocommerce-rapid-stock-manager table[data-table-view="simple"] td.total .icon {
+    display: inline-block;
+    margin-left: 0px;
+    position: relative;
+}
+
+.woocommerce-rapid-stock-manager table[data-table-view="variant"] td .icon i,
+.woocommerce-rapid-stock-manager table[data-table-view="simple"] td.total .icon i {
+    position: absolute;
+    top: -11px;
+}
+
+/****************** TOOL TIP  RAPID STOCK MANAGER ***************************/
+
+.woocommerce_page_update_stock_rapid .qtip-content .manage-stock.green,
+.woocommerce_page_update_stock_rapid .qtip-content .stock-status.green {
+    color: #3ab300;
+    font-weight: bold;
+}
+
+.woocommerce_page_update_stock_rapid .qtip-content .manage-stock.red,
+.woocommerce_page_update_stock_rapid .qtip-content .stock-status.red {
+    color: #b31d00;
+    font-weight: bold;
+}
+
+.woocommerce_page_update_stock_rapid .qtip-content p {
+    font-size: 12px;
+}
+
+/****************** END TOOL TIP RAPID STOCK MANAGER ***************************/
+
+/* total column for all */
+.woocommerce-rapid-stock-manager-table .calculate-total {
+    font-weight: bold;
+}
+
+/* defaulted quantity change */
+.woocommerce-rapid-stock-manager .wc-qty-change {
+    width: 40px !important;
+    font-size: 13px;
+    border: 1px solid #aaa;
+}
+
+.woocommerce-rapid-stock-manager .nowrap {
+    white-space: nowrap;
+}
+
+.woocommerce-rapid-stock-manager p.filter-table {
+}
+
+.woocommerce-rapid-stock-manager .simple-products-table p.filter-table {
+    margin-top:10px;
+    margin-bottom:0;
+}
+
+.woocommerce-rapid-stock-manager .filter-rapid-stock-manager {
+}
+
+.woocommerce-rapid-stock-manager .filter-rapid-stock-manager form {
+    text-align: right;
+}
+
+.woocommerce-rapid-stock-manager .filter-rapid-stock-manager.left form {
+    text-align: left;
+}
+
+.woocommerce-rapid-stock-manager th.column-total {
+    width: 40px;
+}
+
+.woocommerce-rapid-stock-manager th.column-sku {
+    width: 70px;
+}
+
+.woocommerce-rapid-stock-manager th.column-input {
+    width: 90px !important;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.woocommerce-rapid-stock-manager td.input-cell {
+    position: relative;
+    height: 100%;
+    width: 90px !important;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.woocommerce-rapid-stock-manager td.input-cell .cell-content {
+    position: relative;
+    z-index: 11;
+}
+
+.woocommerce-rapid-stock-manager td.input-cell .cell-highlighter {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 7px;
+    z-index: 8;
+}
+
+.woocommerce-rapid-stock-manager td .container-variant-single.cell-content {
+    margin-left: -3px;
+}
+
+.woocommerce-rapid-stock-manager td.input-cell .original-qty,
+.woocommerce-rapid-stock-manager td.input-cell .manage-stock {
+    font-size: 12px;
+}
+
+.woocommerce-rapid-stock-manager td.input-cell .sku-detail {
+    font-size: 11px;
+}
+
+/***** HIGHLIGHTING UPDATES *****/
+.woocommerce-rapid-stock-manager tr.requires-updating .action-link {
+    /* set dynamically in php */
+}
+
+.woocommerce-rapid-stock-manager tr.requires-updating .action-cell,
+.woocommerce-rapid-stock-manager tr.requires-updating .sku-cell {
+    /* set dynamically in php */
+    border-right: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.woocommerce-rapid-stock-manager tr td.requires-updating {
+    /* set dynamically in php */
+    border-right: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.woocommerce-rapid-stock-manager tr td.requires-updating .wc-qty-change {
+    /* set dynamically in php */
+}
+
+/****************** PAGINATION FOR RAPID STOCK MANAGER *************************/
+
+.woocommerce-rapid-stock-manager .pagination {
+    margin: 0px auto;
+    text-align: center;
+    padding: 5px 0 10px 0;
+    margin-top: 0;
+    display: inline-block;
+    float: right;
+}
+
+.woocommerce-rapid-stock-manager .simple-products-table .pagination {
+    padding-top:17px;
+    margin-top:0;
+}
+
+.woocommerce-rapid-stock-manager .pagination span,
+.woocommerce-rapid-stock-manager .pagination a {
+    border: 1px solid #e1e1e1;
+    background: #fff;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.woocommerce-rapid-stock-manager .pagination span.total {
+    margin-left: 4px;
+}
+
+/****************** PAGINATION END FOR RAPID STOCK MANAGER ***************************/
+
+.woocommerce-rapid-stock-manager .stock-report {
+    width: 100%;
+    height: 200px;
+}
+
+.woocommerce-rapid-stock-manager .stock-report:focus {
+    border: 1px solid #999;
+}
+
+.woocommerce-rapid-stock-manager .copy-to-clipboard {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.woocommerce-rapid-stock-manager .copy-result {
+    display: none;
+    color: red;
+}
+
+.woocommerce-rapid-stock-manager .textarea-heading {
+    margin: 10px 0 5px 0;
+    line-height: 27px;
+}
+
+/****************** ACTION FOR RAPID STOCK MANAGER ***************************/
+
+.woocommerce-rapid-stock-manager .add-new-h2.selected {
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+/****************** END ACTION FOR RAPID STOCK MANAGER ***************************/
+
+/****************** ICONS RAPID STOCK MANAGER ***************************/
+.woocommerce-rapid-stock-manager .loading {
+    color: #008000;
+    font-size: 14px;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: -4px;
+}
+
+.woocommerce-rapid-stock-manager .action-link .loading {
+    margin-top: 2px;
+}
+
+.woocommerce-rapid-stock-manager .spinner-override {
+    opacity: 1;
+    transition: all 0.5s ease-in;
+}
+
+.woocommerce-rapid-stock-manager .spinner-override.temp-hidden {
+    opacity: 0;
+}
+
+.woocommerce-rapid-stock-manager .fa-spinner.show,
+.woocommerce-rapid-stock-manager .fa-check.show {
+    opacity: 1.0;
+
+}
+
+.woocommerce-rapid-stock-manager .fa-check {
+    opacity: 0;
+    transition: all 0.5s ease-in;
+}
+
+.woocommerce-rapid-stock-manager .fa-spinner {
+    opacity: 0;
+    transition: all 0.5s ease-in;
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+}
+
+.woocommerce-rapid-stock-manager .fa-spinner.show {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+}
+
+.woocommerce-rapid-stock-manager .variation-container {
+    position: relative;
+}
+
+.woocommerce-rapid-stock-manager .variation-container .attribute-heading {
+    position: absolute;
+    top: -15px;
+    left: 7px;
+}
+
+.tool-tip-content .details p {
+    padding: 0 0 5px 0;
+    margin: 0;
+}
+
+/* SEARCH ENTIRE PRODUCT */
+.woocommerce-rapid-stock-manager .search-entire-container {
+    display: inline-block;
+    float: right;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.woocommerce-rapid-stock-manager .search-entire-container .search-reset {
+    display: inline;
+}
+
+.woocommerce-rapid-stock-manager .search-entire-container .search-reset input {
+    background: #cc99c2;
+    border-color: #b366a4;
+    color: #fff;
+}
+
+.woocommerce-rapid-stock-manager .search-entire-container.left {
+    float: left;
+}
+
+.woocommerce-rapid-stock-manager .clear {
+    clear: both;
+}
+
+/******* THEME ********/
+.woocommerce-rapid-stock-manager .theme-dark table {
+    /*background:#555555;
+    color:#ffffff;*/
+}
+
+.woocommerce-rapid-stock-manager .theme-dark th {
+    background: #555555;
+    color: #ffffff;
+}
+
+.woocommerce-rapid-stock-manager .theme-dark .woocommerce-rapid-stock-manager-table tr:nth-child(even) {
+    /*background:#777777;
+    color:#ffffff;*/
+}
+
+.woocommerce-rapid-stock-manager .theme-dark .action-cell a {
+    /*color:#ffffff;*/
+}
+
+.woocommerce-rapid-stock-manager .theme-dark .sku-cell {
+    background: #555555;
+    color: #ffffff;
+}
+
+.woocommerce-rapid-stock-manager .form-variation {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    display: inline-block;
+}
+
+.ishouty-credits {
+    margin-top: 100px;
+}
+
+.add_f {
+    float: left;
+    left: 38%;
+    position: absolute;
+    top: 75px;
+    border: none;
+    background: #008CBF;
+    height: 27px;
+    width: 66px;
+    color: white;
+}
+
+.forminp.forminp-text > p {
+    color: red;
+}
+
+#wpbody-content a.add-new-h2{
+    top:2px;
+}
+
+/****************** END RAPID STOCK MANAGER ***************************/
+@media screen and (max-width: 782px) {
+
+    .woocommerce_page_update_stock_rapid .wrap .add-new-h2, .wrap .add-new-h2:active {
+        display: inline-block;
+    }
+
+}
+
+/****************** START WAREHOUSE RAPID STOCK MANAGER ***************************/
+
+.woocommerce_page_update_stock_rapid .product-popup {
+    background: none repeat scroll 0 0 padding-box white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+    display: none;
+    left: 13%;
+    position: absolute;
+    top: 10%;
+    width: 70% !important;
+    z-index: 1000;
+}
+
+@media (min-width: 32em) {
+    .woocommerce_page_update_stock_rapid .modal-box {
+        width: 100%;
+    }
+}
+
+.woocommerce_page_update_stock_rapid .modal-box header,
+.woocommerce_page_update_stock_rapid .modal-box .modal-header {
+    padding: 1.25em 1.5em;
+    border-bottom: 1px solid #ddd;
+}
+
+.woocommerce_page_update_stock_rapid .modal-box header h3,
+.woocommerce_page_update_stock_rapid .modal-box header h4,
+.woocommerce_page_update_stock_rapid .modal-box .modal-header h3,
+.woocommerce_page_update_stock_rapid .modal-box .modal-header h4 {
+    margin: 0;
+}
+
+.woocommerce_page_update_stock_rapid .modal-box .modal-body {
+    padding: 2em 1.5em;
+}
+
+.woocommerce_page_update_stock_rapid .modal-box footer,
+.woocommerce_page_update_stock_rapid .modal-box .modal-footer {
+    padding: 1em;
+    border-top: 1px solid #ddd;
+    background: rgba(0, 0, 0, 0.02);
+    text-align: right;
+}
+
+.woocommerce_page_update_stock_rapid #warehouse-transfer-popup #warehouse_close_popup {
+    text-align: right;
+    float: right;
+    position: relative;
+    top: -4px;
+    padding: 0.2em 1em;
+}
+
+.woocommerce_page_update_stock_rapid .modal-overlay {
+    opacity: 0;
+    filter: alpha(opacity=0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 900;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.woocommerce_page_update_stock_rapid a.close {
+    line-height: 1;
+    font-size: 1.5em;
+    position: absolute;
+    top: 5%;
+    right: 2%;
+    text-decoration: none;
+    color: #bbb;
+}
+
+.woocommerce_page_update_stock_rapid a.close:hover {
+    color: #222;
+    -webkit-transition: color 1s ease;
+    -moz-transition: color 1s ease;
+    transition: color 1s ease;
+}
+
+.woocommerce_page_update_stock_rapid .modal-box {
+    width: 100%;
+    background: white;
+    border-bottom: 1px solid #aaa;
+    border-radius: 4px;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-clip: padding-box;
+}
+
+.woocommerce_page_update_stock_rapid .modal-box header,
+.woocommerce_page_update_stock_rapid .modal-box .modal-header {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.woocommerce_page_update_stock_rapid .modal-box .modal-body {
+    padding: 0px 10px
+}
+
+.woocommerce_page_update_stock_rapid .modal-box footer,
+.woocommerce_page_update_stock_rapid .modal-box .modal-footer {
+    padding: 1em;
+    border-top: 1px solid #ddd;
+    background: rgba(0, 0, 0, 0.02);
+    text-align: left;
+}
+
+.woocommerce_page_update_stock_rapid .btn {
+    font-size: 3vmin;
+    padding: 0.75em 1.5em;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    color: #333;
+    text-decoration: none;
+    display: inline;
+    border-radius: 4px;
+    -webkit-transition: background-color 1s ease;
+    -moz-transition: background-color 1s ease;
+    transition: background-color 1s ease;
+}
+
+.woocommerce_page_update_stock_rapid .btn:hover {
+    background-color: #ddd;
+    -webkit-transition: background-color 1s ease;
+    -moz-transition: background-color 1s ease;
+    transition: background-color 1s ease;
+}
+
+.woocommerce_page_update_stock_rapid .btn-small {
+    padding: .75em 1em;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+.woocommerce_page_update_stock_rapid .btn-update {
+    float: right;
+    margin-top: -6px !important;
+    padding: 6px 13px;
+}
+
+.woocommerce_page_update_stock_rapid .to {
+    box-sizing: border-box;
+    height: auto !important;
+    margin: 8px 0;
+    padding: 5px 2px !important;
+    width: 99%;
+}
+
+.woocommerce_page_update_stock_rapid .searching {
+    width: 99% !important;
+}
+
+.woocommerce_page_update_stock_rapid .box-container {
+    width: 100%;
+    padding: 5px 0;
+}
+
+.woocommerce_page_update_stock_rapid .box-container label {
+    font-weight: bold;
+}
+
+.woocommerce_page_update_stock_rapid .box-from {
+    width: 50%;
+    float: left;
+}
+
+.woocommerce_page_update_stock_rapid .box-to {
+    width: 50%;
+    display: inline-block;
+}
+
+.woocommerce_page_update_stock_rapid .box-container table {
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.woocommerce_page_update_stock_rapid .box-container table th {
+    color: #fff;
+}
+
+.woocommerce_page_update_stock_rapid .box-container table tr {
+    border: 1px solid grey;
+}
+
+.woocommerce_page_update_stock_rapid .box-container table td, th {
+    border: none;
+    padding: 0 10px;
+    text-align: left;
+}
+
+.woocommerce_page_update_stock_rapid .box-container table tr:nth-child(even) {
+    background: #efefef;
+    border: 1px solid #ccc;
+}
+
+.woocommerce_page_update_stock_rapid .box-container table tr:nth-child(odd) {
+    background: #e0e0e0;
+    border: 1px solid #ccc;
+}
+
+.woocommerce_page_update_stock_rapid .warehouseproductLists input {
+    width: 40px;
+}
+
+.woocommerce_page_update_stock_rapid .error_msg {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.woocommerce_page_update_stock_rapid table .product-image {
+    text-align: center;
+
+}
+
+.woocommerce_page_update_stock_rapid table .product-image img {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.woocommerce_page_update_stock_rapid .product-image > p {
+    text-align: left;
+    margin: 0;
+}
+
+.woocommerce_page_update_stock_rapid .product_name > b {
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.woocommerce_page_update_stock_rapid .warehouse-products-list {
+    max-height: 258px;
+    overflow: auto;
+    padding: 0px;
+    position: absolute;
+    background: white;
+    width: 96%;
+    z-index: 1;
+    top: 175px;
+    left: 12px;
+
+}
+
+.woocommerce_page_update_stock_rapid .products-transfer-warehouse-container {
+    overflow-y: auto;
+    max-height: 300px;
+}
+
+.woocommerce_page_update_stock_rapid .products-transfer-warehouse .status {
+
+}
+
+.woocommerce_page_update_stock_rapid .custom_tab_options .warehouse_value_error {
+    color: red;
+}
+
+.woocommerce_page_update_stock_rapid .error-message {
+    color: red;
+}
+
+.woocommerce_page_update_stock_rapid .success-message {
+    color: #00ff1f;
+}
+
+.woocommerce_page_update_stock_rapid .warehouseproductLists img {
+    width: 20px;
+    cursor: pointer;
+}
+
+.woocommerce_page_update_stock_rapid .product-popup .disable_a_href {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.woocommerce_page_update_stock_rapid .marginZero {
+    margin: 0;
+    color: red;
+}
+
+.woocommerce_page_update_stock_rapid .cell-content .wc-qty-change {
+    width: 66px !important;
+    height: 27px;
+}
+
+#woocommerce-coupon-data .wc-metaboxes-wrapper, #woocommerce-coupon-data .woocommerce_options_panel, #woocommerce-product-data .wc-metaboxes-wrapper, #woocommerce-product-data .woocommerce_options_panel {
+    margin-bottom: 10px;
+}
+
+.woocommerce-rapid-stock-manager .variation-container, .woocommerce-rapid-stock-manager .variation-products-container {
+    padding-top: 20px;
+}
+
+.woocommerce_page_update_stock_rapid i.fa-times,
+.woocommerce_page_update_stock_rapid i.fa-plus-circle {
+    margin-left: 5px;
+    font-size: 38px;
+    cursor: pointer;
+}
+.woocommerce_page_update_stock_rapid i.fa-times,
+.woocommerce_page_update_stock_rapid i.fa-plus-circle:hover {
+    color: #0073AA;
+}
+
+.woocommerce_page_update_stock_rapid .loading-container {
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    padding-top: 5%;
+}
+
+.woocommerce_page_update_stock_rapid .select-warehouse-container,
+.woocommerce_page_update_stock_rapid .select-action-list-container
+{
+    display: inline;
+    display: inline-block;
+
+}
+
+.woocommerce_page_update_stock_rapid .loading-container i {
+    -webkit-animation: rotation 1s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {-webkit-transform: rotate(0deg);}
+    to   {-webkit-transform: rotate(359deg);}
+}
+
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span {
+    background-image: url(images/ui-icons_444444_256x240.png);
+}
+
+/****************** END WAREHOUSE RAPID STOCK MANAGER ***************************/
+
+.update-nag {
+    display: none !important;
+}

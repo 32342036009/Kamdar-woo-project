@@ -1,0 +1,1 @@
+<Package ID="#ID#"><Pounds>#POUNDS#</Pounds><Ounces>#OUNCES#</Ounces><Machinable>true</Machinable><MailType>Package</MailType><ValueOfContents>#VALUE#</ValueOfContents><Country>#TOCOUNTRY#</Country><Container>RECTANGULAR</Container><Size>#SIZE#</Size><Width/><Length/><Height/><Girth/><OriginZip>#POSTALCODE#</OriginZip><CommercialFlag>N</CommercialFlag></Package>

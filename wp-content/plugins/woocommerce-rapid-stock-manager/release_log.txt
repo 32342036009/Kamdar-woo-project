@@ -1,0 +1,118 @@
+version 2.0.2 - 14.1.2017
+* Fixed issue with warehouse table creation on some mysql servers
+* Fixed issue with printing and fatal error on same servers
+		
+version 2.0.1 - 5.1.2017
+
+* Fixed issues with php Notices
+* Fixed issue with table creation for audit
+* Fixed issues with sql for audit retrieval
+* Fixed - removed hardcoded table names
+
+
+version 2.0.0 - 28.11.2016
+
+* Add warehouses to manage stock and transfer to main stock inventory of woocommerce
+* Audit functionality for warehouses
+* Transfer audit receipt
+* Update Stock audit functionality including warehouse
+* Add deduct for single and variants
+* Add more personalisation settings
+* Fix bugs with single pagination
+* General bug fixing and performance improvements
+* Added localisation vietnamese
+
+
+version 1.5.1 - 29.12.2015
+
+* Added localisation support
+
+
+version 1.5.0 - 27.12.2015
+
+* Stock Audit
+
+
+version 1.4.1 - 29.9.2015
+
+* Performance improvements
+
+
+version 1.3.1 - 28.7.2015
+
+* Bug fix :
+* Make sure all scripts are not loaded when loading rapid stock manager
+
+
+version 1.3 - 26.7.2015
+
+* Bug fix :
+* Variation view issue when multiple attributes used for variations
+* New feature :
+* Global search for variations
+
+version 1.2.1 - 3.6.2015
+
+* Bug fix :
+* Not working stock report in some installations of Wordpress
+
+version 1.2 - 15.4.2015
+
+* Bug fix :
+* Missing pagination
+
+version 1.1 - 11.4.2015
+
+* Bug fix :
+* Enable simple products with variations to display in simple products tab
+
+Feature:
+* Add new adjusted quantity value display for variants
+
+version 1.0 - 05.1.2015
+
+Rapid stock manager allows to update your stock inventory and variants sizes very quickly, displaying everything within one screen.
+Automatically updating without reloading the page, so your stock inventory gets updated automatically.
+Friendly interface to allow you to access and update your stock with ease. Adjust your stock for any of the products(including variants), so your current stock without effecting the inventory if users are purchasing the item.
+Set your stock for any of the products (including variants), so your stock will be the value you entered.
+Low stock indicator to allow you to know straight away what is in low stock to take immediate action. row/column highlighting on products have been modified and need to be saved. Stock report to export to excel with available list or grid view.
+Personalise your settings to give you more flexiblity of how you want to use your rapid stock manager and many more features!
+
+- First release of Rapid Stock Manager
+- Features
+* Simple Products view - allows you to set/adjust stock simple products
+** Display all simple products
+** Clean and simple layout to see all your variants in one row.
+** Total items for that row
+** Instant update without loading page
+
+* Variant Products view - allows you to set/ajust stock variants products
+** Display all variable products for the product
+** Clean and simple layout to see all your variants in one row.
+** set/adjust just the product
+** set/adjust the entire row of the stock in one click
+** Link to the main product
+** Total items for that row.
+** Instant update without loading page
+** Display multiple tables for more than one attributes if stock is available.
+
+* Stock Report - copy to clipboard your stock report. Available are List or grid report (All Products)
+
+* Update stock without effecting the product stock if users are ordering the item. (All views)
+* Menu navigation to allow you to easily access other views (All views)
+* Set stock of the product (All views)
+* Update stock products without reloading the page (All views)
+* Color highlighting indicator to allow users to know they have modified stock and require to save (All views)
+* Low stock color highlighting if quantity of the product or variant is low in stock. (All views)
+* Tool tips to help you know more about the product you are updating (All views)
+* Product ordering filter (All views)
+* Flexible pagination to restrict how many products are displayed (All views)
+* Search filter to quickly allow you to find the product you want to update the stock (All views)
+
+* Settings to personalise you rapid stock management
+** Customise view you would like to display. Simple products or variable products. (All views)
+** Customise the action for all products you want to update. Adjust or Set. (All views)
+** Customise the ordering of the products when first time loading on the page. (All views)
+** Customise How many products you want to display on the page. (All views)
+** Customise Low stock color, Allows you to change the color when a product is low in stock. (All views)
+** Customise the Row/Column highlighting color when changes are made by the user and have not been saved. (All views)

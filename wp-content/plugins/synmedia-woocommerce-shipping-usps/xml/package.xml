@@ -1,0 +1,1 @@
+<Package ID="#ID#"><Service>ALL</Service><ZipOrigination>#POSTALCODE#</ZipOrigination><ZipDestination>#TOPOSTALCODE#</ZipDestination><Pounds>#POUNDS#</Pounds><Ounces>#OUNCES#</Ounces><Container /><Size>#SIZE#</Size><Width>#WIDTH#</Width><Length>#LENGTH#</Length><Height>#HEIGHT#</Height><Girth>#GIRTH#</Girth><Machinable>true</Machinable><ShipDate>#SHIPDATE#</ShipDate></Package>

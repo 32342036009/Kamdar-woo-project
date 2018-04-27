@@ -1,0 +1,135 @@
+*** USPS Shipping Method Changelog ***
+
+2017.06.07 - version 2.2.6
+  * Fix for Woo 3
+
+2016.06.27 - version 2.2.5
+  * Fix services
+
+2016.06.14 - version 2.2.3
+  * Fix for WooCommerce 2.6
+
+2016.05.13 - version 2.2.2
+  * Fix Checkout Error
+
+2015.11.19 - version 2.2.1
+  * Fix Checkout Notice Error
+
+2015.11.11 - version 2.2.0
+  * Fix Production key request
+
+2015.11.05 - version 2.1.9
+  * Fix Enabled status in general shipping page
+
+2015.05.08 - version 2.1.8
+  * Fix minors bugs
+
+2015.04.07 - version 2.1.7
+  * Fix Zip code with dash
+
+2015.03.09 - version 2.1.6
+  * Fix Zip code with dash
+
+2015.03.03 - version 2.1.5
+  * Fix service ordering
+
+2014.11.21 - version 2.1.4
+  * Fix tracking
+
+2014.11.21 - version 2.1.3
+  * Fix errors and bugs
+
+2014.10.03 - version 2.1.2
+  * Fix method not saving
+
+2014.09.09 - version 2.1.1
+  * Fix rate not updating after saving new settings
+  * Fix "Fatal error: Class 'SYN_Shipping_Method' not found"
+
+2014.05.27 - version 2.1.0
+  * Fix 404 error
+
+2014.05.07 - version 2.0.7
+  * Clear transient on activation or update
+
+2014.05.07 - version 2.0.6
+  * Fix transient
+
+2014.04.30 - version 2.0.5
+  * Fix blank settings
+
+2014.04.22 - version 2.0.4
+  * Changed tracking
+
+2014.04.09 - version 2.0.1
+  * Fix Add Tracking button
+
+2014.04.09 - version 2.0.0
+  * Added multiple Tracking
+  * Fix bug in My Account
+
+2014.04.08 - version 1.1.8
+  * Added integrated Tracking
+  * Added more debug messages
+  * Cleanup of old code
+
+2014.04.03 - version 1.1.7
+  * Fixed sprintf error
+
+2014.04.01 - version 1.1.6
+  * Fixed shipping cost
+
+2014.03.28 - version 1.1.5
+  * Added Box Packing
+  * Updated SYN dependencies
+  * Cleanup code
+  * Changed error text
+
+2014.03.26 - version 1.1.4
+  * Updated auto updater
+
+2014.03.24 - version 1.1.3
+  * Added weight based shipping
+
+2014.02.28 - version 1.1.2
+  * Fix 404 error
+
+2014.02.26 - version 1.1.1
+  * Fix fatal error SYN_Shipping_Method
+
+2014.02.26 - version 1.1.0
+  * Fix fatal error SYN_Shipping_Method
+
+2014.02.24 - version 1.0.9
+  * Fix countries name
+  * Fix no province
+
+2014.01.28 - version 1.0.8
+  * Fix WooCommerce version notice
+
+2014.01.23 - version 1.0.7
+  * Added support for WooCommerce 2.1
+
+2013.09.06 - version 1.0.6
+  * Fixed Fatal Error
+
+2013.08.10 - version 1.0.5
+  * Fixed production and dev mode
+
+2013.04.10 - version 1.0.4
+  * Added css for more readable debug
+
+2013.04.03 - version 1.0.3
+  * Added a way to change shipping methods name
+  * Added update from Wordpress
+  * Fixed weight
+  * Fixed First Class Parcel
+
+2013.04.24 - version 1.0.2
+  * Fixed post to USPS API
+
+2013.04.13 - version 1.0.1
+  * Added more detailed debug msg
+
+2013.04.12 - version 1.0.0
+  * First Release

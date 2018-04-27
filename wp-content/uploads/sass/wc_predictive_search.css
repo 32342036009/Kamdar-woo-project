@@ -1,0 +1,185 @@
+.clear {
+  clear: both;
+}
+.nobr {
+  white-space: nowrap;
+}
+.sidebar_input_bg_color {
+  background-color: #ffffff !important;
+}
+.wc_ps_sidebar_container {
+  width: calc( 100% - 0px - 0px - 2px );
+  margin: 0px 0px 10px 0px;
+  float: none;
+  border: 1px solid #cdcdcd !important;
+  border-radius: 4px 4px 4px 4px !important;
+  -moz-border-radius: 4px 4px 4px 4px !important;
+  -webkit-border-radius: 4px 4px 4px 4px !important;
+  box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+.wc_ps_sidebar_container.wc_ps_container_active {
+  border-color: #febd69 !important;
+}
+.wc_ps_sidebar_container .wc_ps_nav_scope {
+  background-color: #f3f3f3;
+  border-left: none;
+  border-right: 1px solid #cdcdcd !important;
+}
+.wc_ps_sidebar_container .wc_ps_nav_scope .wc_ps_nav_facade_label {
+  font: normal 12px/1.4em Arial, sans-serif !important;
+  color: #777777 !important;
+}
+.wc_ps_sidebar_container .wc_ps_nav_scope .wc_ps_nav_down_icon {
+  font-size: 12px;
+  color: #555555;
+}
+.wc_ps_sidebar_container .wc_ps_nav_submit {
+  background-color: #febd69;
+  border-right: none;
+  border-left: 0px solid #febd69 !important;
+}
+.wc_ps_sidebar_container .wc_ps_nav_submit:hover {
+  background-color: #f3a847;
+}
+.wc_ps_sidebar_container .wc_ps_nav_submit:hover .wc_ps_nav_submit_icon {
+  color: #ffffff;
+}
+.wc_ps_sidebar_container .wc_ps_nav_submit .wc_ps_nav_submit_icon {
+  font-size: 16px;
+  color: #555555;
+}
+.wc_ps_sidebar_container .wc_ps_nav_field {
+  background-color: #ffffff !important;
+}
+.wc_ps_sidebar_container .wc_ps_nav_field .wc_ps_search_keyword {
+  font: normal 12px/1.4em Arial, sans-serif !important;
+  color: #111111 !important;
+  padding: 6px 10px !important;
+}
+.wc_ps_sidebar_container .wc_ps_nav_field .wc_ps_searching_icon {
+  font-size: 16px;
+  color: #555555;
+}
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_left,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_right,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_fill,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_scope,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_category_selector,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_submit,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_field,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_search_keyword {
+  height: 35px !important;
+}
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_facade_label,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_down_icon,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_category_selector,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_nav_submit_icon,
+.wc_ps_container.wc_ps_sidebar_container .wc_ps_searching_icon {
+  line-height: 35px !important;
+}
+.predictive_results.predictive_results_sidebar {
+  border: 1px solid #c2c2c2 !important;
+  border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  -webkit-border-radius: 0px !important;
+}
+.predictive_results.predictive_results_sidebar .ajax_search_content_title {
+  padding: 3px 10px;
+  background-color: #f2f2f2;
+  font: bold 12px/1.4em Arial, sans-serif !important;
+  color: #000000 !important;
+  border-bottom: 0px solid #c2c2c2 !important;
+}
+.predictive_results.predictive_results_sidebar .ajax_search_content {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #ffffff;
+  border-bottom: 0px solid #c2c2c2 !important;
+}
+.predictive_results.predictive_results_sidebar .result_row {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+.predictive_results.predictive_results_sidebar .rs_avatar {
+  width: 64px;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup {
+  width: calc( 100% - 74px ) !important;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_name {
+  font: bold 12px/1.4em Arial, sans-serif !important;
+  color: #3b5998 !important;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_sku {
+  font: normal 12px/1.4em Arial, sans-serif !important;
+  color: #3b5998 !important;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_price {
+  font: normal 12px/1.4em Arial, sans-serif !important;
+  color: #000000 !important;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_description {
+  font: normal 12px/1.4em Arial, sans-serif !important;
+  color: #000000 !important;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_stock {
+  font: normal 12px/1.4em Arial, sans-serif !important;
+  color: #000000 !important;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_cat,
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_cat > a {
+  font: normal 12px/1.4em Arial, sans-serif !important;
+  color: #000000 !important;
+}
+.predictive_results.predictive_results_sidebar .rs_content_popup .rs_cat {
+  color: #000000 !important;
+}
+.predictive_results.predictive_results_sidebar .more_result {
+  padding: 3px 10px;
+  background-color: #f2f2f2;
+}
+.predictive_results.predictive_results_sidebar .more_result span {
+  font: bold 10px/1.4em Arial, sans-serif !important;
+  color: #999999 !important;
+}
+.predictive_results.predictive_results_sidebar .more_result a {
+  font: bold 12px/1.4em Arial, sans-serif !important;
+  color: #3b5998 !important;
+}
+.predictive_results.predictive_results_sidebar .more_result .see_more_arrow {
+  font-size: 12px !important;
+  color: #3b5998 !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .ajax_search_content {
+  background-color: #6d84b4;
+  border-color: #6d84b4 !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .rs_name {
+  color: #ffffff !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .rs_sku {
+  color: #ffffff !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .rs_price {
+  color: #ffffff !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .rs_description {
+  color: #ffffff !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .rs_stock {
+  color: #ffffff !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .rs_cat {
+  color: #ffffff !important;
+}
+.predictive_results.predictive_results_sidebar .ac_over .rs_cat > a {
+  color: #ffffff !important;
+}
+@media only screen and (max-width: 420px) {
+  .wc_ps_sidebar_container {
+    width: calc( 100% - 10px - 10px - 2px );
+    margin: 10px 10px 10px 10px;
+  }
+}

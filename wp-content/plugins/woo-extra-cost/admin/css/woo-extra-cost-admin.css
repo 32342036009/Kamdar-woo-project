@@ -1,0 +1,505 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #wcec_dialog {width:500px; text-align:center; font-size:15px; font-weight:bold;}
+#wcec_dialog p {font-size:15px; font-weight:bold;}
+p.red.paid_version_feature {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.free_plugin {
+    margin-bottom: 20px;
+}
+
+.paid_plugin {
+    margin-bottom: 20px;
+}
+
+.paid_plugin h3 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.free_plugin h3 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.plug-containter {
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.plug-containter .contain-section {
+    width: 25%;
+    display: inline-block;
+    margin-top: 30px;
+}
+.plug-containter .contain-section .contain-img {
+    width: 30%;
+    display: inline-block;
+}
+.plug-containter .contain-section .contain-title {
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.plug-containter .contain-section .contain-title a {
+    text-decoration: none;
+    line-height: 20px;
+    font-weight: bold;
+}
+.version_logo_img {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+td.count {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  background: rgba(241, 241, 241, 0.34) !important;
+}
+
+.woocommerce_page_wc-settings .form-table tr th {
+  font-size: 14px;
+  font-weight: normal;
+  width: 300px;
+}
+
+a.shipping_tab {
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+table.wc_extra_cost_table thead tr th {
+  text-align: left;
+}
+
+table.wc_extra_cost_table {
+  margin-top: 30px;
+}
+
+table.wc_extra_cost_table thead tr th {
+  padding: 10px 0;
+  font-size: 14px;
+  background: #FFF;
+  border-top: 1px solid #898989;
+  border-bottom: 1px solid #898989;
+}
+
+tbody.wc_extra_cost_tbody tr td {
+  background: rgba(204, 204, 204, 0.38);
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+tbody.wc_extra_cost_tbody td.counter {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+tbody.wc_extra_cost_tbody td.title select {
+  width: 70%;
+}
+
+tbody.wc_extra_cost_tbody td.charge input[type="number"] {
+  width: 70%;
+}
+
+img.help_tip {
+  cursor: pointer;
+}
+
+body {
+  position: relative;
+  z-index: 0;
+}
+
+.main:before {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  content: '';
+}
+
+.site-header-wrap {
+  margin-bottom: 60px;
+  border-bottom: 1px solid #cd9ad6;
+}
+
+.accordion, .accordion * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.accordion {
+  overflow: hidden;
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  border-radius: 3px;
+  background: #f7f7f7;
+}
+
+.accordion-section-title {
+  width: 100%;
+  padding: 6px;
+  padding-left: 20px;
+  display: inline-block;
+  background: #E4E4E4;
+  transition: all linear 0.15s;
+  font-size: 1.200em;
+  text-shadow: 0px 1px 0px #1a1a1a;
+  color: #555;
+}
+
+.accordion-section-title.active, .accordion-section-title:hover {
+  background: #FFF;
+  text-decoration: none;
+  color: #000;
+}
+
+.accordion-section:last-child .accordion-section-title {
+  border-bottom: none;
+}
+
+.accordion-section-content {
+  padding: 15px;
+  display: none;
+}
+
+.accordion-section-title {
+  text-decoration: none;
+}
+
+.accordion-section .enable-disable {
+  margin-bottom: 15px;
+}
+
+.accordion {
+  margin-top: 30px;
+}
+
+.accordion-section {
+  border-bottom: 1px solid rgba(35, 40, 45, 0.37);
+  margin: 0;
+}
+
+.set_accordion_classes {
+  width: 100%;
+}
+
+.set_accordion_classes .enable-disable {
+  display: inline-block;
+}
+
+.set_accordion_classes .accordion-tab-link {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.enble-disable-label {
+  margin-left: 10px;
+}
+
+.enble-disable-label .green {
+  color: green;
+  display: inline-block;
+  font-size: 12px;
+  margin-top: 0px;
+}
+
+.enble-disable-label .red {
+  color: red;
+  display: inline-block;
+  font-size: 12px;
+  margin-top: 0px;
+}
+
+.button.plus.setbutton {
+  margin-top: 15px;
+}
+
+a:focus,a:focus.accordion-section td.remove a:focus, a:focus .media-icon img {
+  box-shadow: none;
+}
+
+.accordion .accordion-section div.accordion-section-content {
+  border-top: 1px solid rgba(0, 0, 0, 0.07);
+}
+
+p.welcome-page-functionality {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.about-wrap .return-to-dashboard {
+  margin: 30px 0 0 -5px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.accordion .accordion-section .accordion-section-title.active:after {
+  transition: o.3s all ease-in-out;
+}
+
+.accordion .accordion-section .accordion-section-title.active:after {
+  transform: rotate(180deg);
+  top: 16px;
+  right: 7px;
+}
+
+ul.subsubsub.ma-10 {
+  margin-top: 10px;
+}
+
+ul.subsubsub.ma-10 li.ec_tab_title {
+  color: #000;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.plug-containter {
+  width: 100%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.plug-containter .contain-section {
+  width: 25%;
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.plug-containter .contain-section .contain-img {
+  width: 30%;
+  display: inline-block;
+}
+
+.plug-containter .contain-section .contain-title {
+  width: 50%;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.plug-containter .contain-section .contain-title a {
+  text-decoration: none;
+  line-height: 20px;
+  font-weight: bold;
+}
+
+.about-wrap h1 {
+  font-size: 2.6em;
+}
+
+.main.wc_extra_cost_main fieldset {
+  border: 0;
+  padding: 1%;
+}
+
+.main.wc_extra_cost_main legend {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.main.wc_extra_cost_main {
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  padding: 20px 10px;
+}
+
+.wc_extra_cost_tbl_country {
+  margin: 10px 0px;
+}
+
+.enable-disable {
+  margin: 10px 0px;
+}
+
+.main.wc_extra_cost_main p.submit {
+  padding-left: 20px;
+}
+
+.main.wc_extra_cost_main legend {
+  padding: 20px 0px;
+  font-size: 26px;
+  display: block;
+  clear: both;
+  float: none;
+  position: static;
+}
+
+.main.wc_extra_cost_main fieldset {
+  display: block;
+  clear: both;
+  width: auto;
+  float: none;
+  position: static;
+}
+
+.ui-accordion .ui-accordion-icons {
+  height: 25px;
+  line-height: 25px;
+  font-size: 15px;
+}
+
+.enble-disable-label {
+  margin-bottom: 10px;
+}
+
+.ui-accordion .ui-accordion-header {
+  background: #fff !important;
+}
+
+fieldset.fs_global legend {
+  font-size: 18px !important;
+}
+
+fieldset.fs_global {
+  border: 1px solid #ccc !important;
+    /* font-size: 18px; */;
+}
+
+fieldset.fs_global legend {
+  font-size: 18px !important;
+}
+
+fieldset.fs_global {
+  border: 1px solid #ccc !important;
+    /* font-size: 18px; */;
+}
+
+fieldset.fs_cart legend {
+  font-size: 18px !important;
+}
+
+fieldset.fs_cart {
+  border: 1px solid #ccc !important;
+    /* font-size: 18px; */;
+}
+
+fieldset.fs_product legend {
+  font-size: 18px !important;
+}
+
+fieldset.fs_product {
+  border: 1px solid #ccc !important;
+    /* font-size: 18px; */;
+}
+
+input.button-primary.wc_extra_cost_save_product_setting {
+  margin-top: 15px;
+}
+
+input.button-primary.btn_wc_extra_cost_save_cart_setting {
+  margin-top: 15px;
+}
+
+input.button-primary.btn_wc_extra_cost_save_global {
+  margin-top: 15px;
+}
+
+.wc_extra_cost_settings p.submit {
+  /*display: none !important;*/
+}
+
+.ui-widget {
+  font-family: inherit !important;
+}
+
+.main.wc_extra_cost_main select {
+  max-width: 250px;
+  min-width: 250px;
+  background: rgba(231, 231, 231, 0.43) !important;
+}
+
+.main.wc_extra_cost_main table.wc_input_table td, .main.wc_extra_cost_main table.wc_tax_rates td {
+  padding: 7px;
+}
+
+.main.wc_extra_cost_main table.wc_input_table td input, .main.wc_extra_cost_main table.wc_tax_rates td input {
+  background-color: rgb(231, 231, 231) !important;
+}
+
+.aecw-about-first-div {
+  PADDING-RIGHT: 200PX;
+  POSITION: RELATIVE;
+  min-height: 160px;
+}
+
+.aecw-about-first-div img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.aecw-feature-div ul {
+  display: inline-block;
+  background-color: #fff;
+  width: 100%;
+}
+
+.aecw-feature-div ul li {
+  max-width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin: 20px;
+}
+
+.aecw-feature-div ul li img {
+  display: block;
+  margin: 20px auto;
+  float: none;
+}
+
+.aecw-feature-div ul li span {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.aecw-whatnew-main {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.aecw-whatnew-left {
+  width: 33%;
+  float: left;
+}
+
+.aecw-whatn-right {
+  width: 60%;
+  float: left;
+  margin-left: 50px;
+}
+
+.aecw-feature-div p {
+  text-align: center;
+}
+
+.aecw-whatn-right h3 {
+  margin-top: 0px !important;
+}
+			
+span.help-block.form-error {
+    color: red;
+}
+span.cls_strong {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0px 10px 10px 0px;
+}

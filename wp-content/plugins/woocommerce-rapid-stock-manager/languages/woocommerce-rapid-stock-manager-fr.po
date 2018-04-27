@@ -1,0 +1,1054 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocomerce rapid stock manager french\n"
+"POT-Creation-Date: 2016-11-23 00:26+0000\n"
+"PO-Revision-Date: 2016-11-23 00:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: dev@ishouty.com\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: core_rapid_stock_manager.php\n"
+"X-Poedit-SearchPath-1: woocommerce_rapid_stock_manager.php\n"
+"X-Poedit-SearchPath-2: classes\n"
+"X-Poedit-SearchPath-3: help\n"
+
+#: classes/rapid_stock_manager_audit.php:198 core_rapid_stock_manager.php:811
+#: core_rapid_stock_manager.php:831
+msgid "No products available to list."
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:201
+msgid "Date"
+msgstr "Ngày"
+
+#: classes/rapid_stock_manager_audit.php:201
+msgid "Product SKU"
+msgstr "Mã sản phẩm"
+
+#: classes/rapid_stock_manager_audit.php:202
+msgid "Product ID"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:203 core_rapid_stock_manager.php:813
+msgid "Product"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:204 core_rapid_stock_manager.php:813
+msgid "Variant"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:205
+#: classes/rapid_warehouse_manager.php:1251
+#: classes/rapid_warehouse_manager_transfer.php:338
+#: woocommerce_rapid_stock_manager.php:1601
+#: woocommerce_rapid_stock_manager.php:2359
+msgid "Action"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:206
+msgid "Action amount"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:207
+msgid "Old value"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:208
+msgid "New value"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:209
+msgid "Username"
+msgstr "tên truy nhập"
+
+#: classes/rapid_stock_manager_audit.php:210
+msgid "User ID"
+msgstr "ID người dùng"
+
+#: classes/rapid_stock_manager_audit.php:211
+#: classes/rapid_warehouse_manager_transfer.php:335
+msgid "Warehouse"
+msgstr "Kho"
+
+#: classes/rapid_stock_manager_audit.php:212
+#: classes/rapid_warehouse_manager_transfer.php:56
+msgid "Reference No"
+msgstr ""
+
+#: classes/rapid_stock_manager_audit.php:407
+msgid "Select Action List: "
+msgstr ""
+
+#: classes/rapid_stock_manager_generator.php:24
+msgid "Sample Product Generator"
+msgstr ""
+
+#: classes/rapid_stock_manager_generator.php:25
+msgid "This generates sample variant products for testing."
+msgstr ""
+
+#: classes/rapid_stock_manager_generator.php:26
+msgid "Set parameters:"
+msgstr ""
+
+#: classes/rapid_stock_manager_help.php:60
+msgid "Help page does not exist. Page: "
+msgstr ""
+
+#: classes/rapid_stock_manager_help.php:64
+msgid "Could not read help page contents. Page: "
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:141
+msgid ""
+"You can only have a max of 5 warehouses. Please contact dev@ishouty.com for "
+"more warehouses."
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:199
+msgid "Add Ware House"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:205
+msgid "Enable Ware House"
+msgstr "Kích hoạt tính năng kho"
+
+#: classes/rapid_warehouse_manager.php:211
+msgid "checked"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:215
+msgid "Add Warehouse"
+msgstr "Thêm kho"
+
+#: classes/rapid_warehouse_manager.php:222
+msgid "Delete Warehouse"
+msgstr "Xóa kho"
+
+#: classes/rapid_warehouse_manager.php:306
+msgid "Stock Quantity"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:307
+#: classes/rapid_warehouse_manager.php:308
+msgid "Saved!"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:309
+msgid "Wait.."
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:319
+msgid " Qty"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:323
+msgid "Enter Qty."
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:407
+msgid "No product available of this warehouse."
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:426
+msgid "No product available."
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1045
+msgid "You have no products to display"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1125
+msgid "Select Warehouse: "
+msgstr "Chọn Kho:"
+
+#: classes/rapid_warehouse_manager.php:1129 core_rapid_stock_manager.php:259
+msgid "All"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1131
+msgid "Main Warehouse"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1200
+#: classes/rapid_warehouse_manager.php:1212
+msgid "You Have No Variation Products to Display"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1228
+#: classes/rapid_warehouse_manager.php:1231
+#: classes/rapid_warehouse_manager.php:1352
+#: woocommerce_rapid_stock_manager.php:2337
+#: woocommerce_rapid_stock_manager.php:2340
+#: woocommerce_rapid_stock_manager.php:2474
+msgid "Set Quantity"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1229
+#: classes/rapid_warehouse_manager.php:1232
+#: classes/rapid_warehouse_manager.php:1350
+#: woocommerce_rapid_stock_manager.php:2338
+#: woocommerce_rapid_stock_manager.php:2341
+#: woocommerce_rapid_stock_manager.php:2472
+msgid "Deduct Quantity"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1230
+#: classes/rapid_warehouse_manager.php:1233
+#: classes/rapid_warehouse_manager.php:1348
+#: woocommerce_rapid_stock_manager.php:2339
+#: woocommerce_rapid_stock_manager.php:2342
+#: woocommerce_rapid_stock_manager.php:2470
+msgid "Adjust Quantity"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1238
+#: classes/rapid_warehouse_manager_transfer.php:177
+#: classes/rapid_warehouse_manager_transfer.php:332
+#: core_rapid_stock_manager.php:813 core_rapid_stock_manager.php:854
+#: woocommerce_rapid_stock_manager.php:1581
+#: woocommerce_rapid_stock_manager.php:1701
+#: woocommerce_rapid_stock_manager.php:2159
+#: woocommerce_rapid_stock_manager.php:2347
+msgid "SKU"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1239
+#: classes/rapid_warehouse_manager_transfer.php:178
+#: classes/rapid_warehouse_manager_transfer.php:333
+#: core_rapid_stock_manager.php:854 woocommerce_rapid_stock_manager.php:1582
+#: woocommerce_rapid_stock_manager.php:2348
+msgid "Product Name"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1240
+msgid "Variation"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1241
+#: woocommerce_rapid_stock_manager.php:2349
+msgid "Photo"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1242
+#: woocommerce_rapid_stock_manager.php:2350
+msgid "Manage Stock"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1243
+#: woocommerce_rapid_stock_manager.php:2351
+msgid "Stock Status"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1244
+#: woocommerce_rapid_stock_manager.php:2352
+msgid "Back Orders"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1245
+#: classes/rapid_warehouse_manager_transfer.php:361
+#: woocommerce_rapid_stock_manager.php:1598
+#: woocommerce_rapid_stock_manager.php:2353
+msgid "Update"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1246
+#: classes/rapid_warehouse_manager_transfer.php:212
+#: woocommerce_rapid_stock_manager.php:1068
+#: woocommerce_rapid_stock_manager.php:1597
+#: woocommerce_rapid_stock_manager.php:1788
+#: woocommerce_rapid_stock_manager.php:2354
+msgid "Total"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1247
+#: woocommerce_rapid_stock_manager.php:2355
+msgid "Update "
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1249
+#: woocommerce_rapid_stock_manager.php:2357
+msgid ""
+"Adjust will allow to subtract or add to the existing quantity. Set will set "
+"the current value entered."
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1253
+#: woocommerce_rapid_stock_manager.php:2361
+msgid "Edit main product | Second item will update quantity"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1291
+#: woocommerce_rapid_stock_manager.php:2408
+msgid "Yes"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1291
+#: classes/rapid_warehouse_manager.php:1298
+#: woocommerce_rapid_stock_manager.php:2408
+#: woocommerce_rapid_stock_manager.php:2415
+msgid "No"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1298
+#: woocommerce_rapid_stock_manager.php:2415
+msgid "yes"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1320
+#: woocommerce_rapid_stock_manager.php:2440
+msgid "Edit Product"
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1503
+#: woocommerce_rapid_stock_manager.php:1921
+#: woocommerce_rapid_stock_manager.php:2301
+msgid "Search this set: "
+msgstr ""
+
+#: classes/rapid_warehouse_manager.php:1504
+#: woocommerce_rapid_stock_manager.php:1923
+#: woocommerce_rapid_stock_manager.php:2304
+msgid "e.g. SKU or title"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:54
+msgid "Transfer Reference No Audit"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:55
+msgid ""
+"Search all transfers with reference number, will allow to print transfer "
+"form for operations to make sure managers who control the stock are "
+"responsible with these transfers."
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:57
+msgid "Transfer Reference No"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:117
+#: classes/rapid_warehouse_manager_transfer.php:154
+msgid "Transfer Warehouse Form"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:160
+msgid "From:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:162
+msgid "To:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:166
+msgid "Reference No:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:167
+msgid "Date:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:179
+msgid "Price"
+msgstr "gia"
+
+#: classes/rapid_warehouse_manager_transfer.php:180
+msgid "Quantity"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:181
+msgid "Sub Total"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:226
+msgid "Prepared by:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:227
+msgid "Signature"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:231
+msgid "Checked by:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:232
+msgid "Signature:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:259
+msgid "You cannot transfer stock from the same warehouse!"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:260
+msgid "Select valid warehouse!"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:261
+msgid "Stock has been successfully transferred!"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:262
+msgid "There is not enough stock to transfer that quantity entered!"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:263
+msgid "Transferred Success!"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:264
+msgid "Transferred Failed!"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:269
+msgid "TRANSFER FORM"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:271
+msgid "Transfer Form"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:274
+msgid "Close"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:288
+msgid "Transfer From warehouse:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:291
+msgid "Select Warehouse Transfer From"
+msgstr "Chọn Chuyển kho Từ"
+
+#: classes/rapid_warehouse_manager_transfer.php:304
+msgid "To warehouse:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:306
+msgid "Select Warehouse Transfer To"
+msgstr "Chọn Kho Chuyển Để"
+
+#: classes/rapid_warehouse_manager_transfer.php:323
+msgid "Search in selected warehouse:"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:334
+msgid "Type"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:336
+#: woocommerce_rapid_stock_manager.php:2171
+msgid "Qty"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:337
+msgid "Transfer"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:345
+#: woocommerce_rapid_stock_manager.php:2624
+msgid "Loading"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:358
+#: woocommerce_rapid_stock_manager.php:1771
+msgid "Print"
+msgstr ""
+
+#: classes/rapid_warehouse_manager_transfer.php:455
+msgid "Remove from list"
+msgstr ""
+
+#: core_rapid_stock_manager.php:124 core_rapid_stock_manager.php:199
+#: core_rapid_stock_manager.php:457
+msgid "Rapid Stock Manager"
+msgstr ""
+
+#: core_rapid_stock_manager.php:184
+msgid ""
+"You add 5 warehouses and maximum limit is 5. Please contact dev@ishouty.com "
+"for pricing for more."
+msgstr ""
+
+#: core_rapid_stock_manager.php:195
+msgid "Stock Audit table does not exist! Adding table now..."
+msgstr ""
+
+#: core_rapid_stock_manager.php:201
+msgid "Open Rapid Stock Manager &#x21E8;"
+msgstr ""
+
+#: core_rapid_stock_manager.php:205
+msgid "Default View"
+msgstr ""
+
+#: core_rapid_stock_manager.php:207
+msgid "Default view to display when loading rapid stock manager"
+msgstr ""
+
+#: core_rapid_stock_manager.php:212
+msgid "Simple Products View"
+msgstr ""
+
+#: core_rapid_stock_manager.php:213
+msgid "Variation Products View"
+msgstr ""
+
+#: core_rapid_stock_manager.php:218
+msgid "Default Update Action"
+msgstr ""
+
+#: core_rapid_stock_manager.php:220
+msgid ""
+"Default Update Action for updating products. Adjust will add or subtract "
+"from the current stock, if you are concerned if users are buying that "
+"product. Set will update the stock to the quantity given."
+msgstr ""
+
+#: core_rapid_stock_manager.php:225 woocommerce_rapid_stock_manager.php:1107
+#: woocommerce_rapid_stock_manager.php:1131
+#: woocommerce_rapid_stock_manager.php:1576
+#: woocommerce_rapid_stock_manager.php:2179
+msgid "Adjust"
+msgstr ""
+
+#: core_rapid_stock_manager.php:226 woocommerce_rapid_stock_manager.php:1111
+#: woocommerce_rapid_stock_manager.php:1134
+#: woocommerce_rapid_stock_manager.php:1575
+#: woocommerce_rapid_stock_manager.php:2181
+msgid "Set"
+msgstr ""
+
+#: core_rapid_stock_manager.php:227 woocommerce_rapid_stock_manager.php:1115
+#: woocommerce_rapid_stock_manager.php:1137
+#: woocommerce_rapid_stock_manager.php:1577
+msgid "Deduct"
+msgstr ""
+
+#: core_rapid_stock_manager.php:232
+msgid "Default Product Order"
+msgstr ""
+
+#: core_rapid_stock_manager.php:234
+msgid "Default Product ordering."
+msgstr ""
+
+#: core_rapid_stock_manager.php:239 woocommerce_rapid_stock_manager.php:1998
+msgid "Product Ascending"
+msgstr ""
+
+#: core_rapid_stock_manager.php:240 woocommerce_rapid_stock_manager.php:2004
+msgid "Product Descending"
+msgstr ""
+
+#: core_rapid_stock_manager.php:241 woocommerce_rapid_stock_manager.php:2010
+msgid "Product Modified Ascending"
+msgstr ""
+
+#: core_rapid_stock_manager.php:242 woocommerce_rapid_stock_manager.php:2016
+msgid "Product Modified Descending"
+msgstr ""
+
+#: core_rapid_stock_manager.php:247
+msgid "Display Products Per Page"
+msgstr ""
+
+#: core_rapid_stock_manager.php:249
+msgid "The amount of products that will be displayed per page."
+msgstr ""
+
+#: core_rapid_stock_manager.php:254 core_rapid_stock_manager.php:271
+msgid "5"
+msgstr ""
+
+#: core_rapid_stock_manager.php:255 core_rapid_stock_manager.php:272
+msgid "10"
+msgstr ""
+
+#: core_rapid_stock_manager.php:256 core_rapid_stock_manager.php:273
+msgid "15"
+msgstr ""
+
+#: core_rapid_stock_manager.php:257 core_rapid_stock_manager.php:274
+msgid "20"
+msgstr ""
+
+#: core_rapid_stock_manager.php:258 core_rapid_stock_manager.php:275
+msgid "25"
+msgstr ""
+
+#: core_rapid_stock_manager.php:264
+msgid "Stock Report Products Per Page "
+msgstr ""
+
+#: core_rapid_stock_manager.php:266
+msgid "The amount of products that will be displayed per page for reporting."
+msgstr ""
+
+#: core_rapid_stock_manager.php:276
+msgid "50"
+msgstr ""
+
+#: core_rapid_stock_manager.php:277
+msgid "100"
+msgstr ""
+
+#: core_rapid_stock_manager.php:278
+msgid "250"
+msgstr ""
+
+#: core_rapid_stock_manager.php:279
+msgid "500"
+msgstr ""
+
+#: core_rapid_stock_manager.php:280
+msgid "1000"
+msgstr ""
+
+#: core_rapid_stock_manager.php:290
+msgid "Table Colours and Highlighting"
+msgstr ""
+
+#: core_rapid_stock_manager.php:292
+msgid "Change the default colors for grid highlighting and color indication."
+msgstr ""
+
+#: core_rapid_stock_manager.php:297
+msgid "Low Stock Notification Color"
+msgstr ""
+
+#: core_rapid_stock_manager.php:298
+msgid "Color highlighting the stock which are low in stock. Default "
+msgstr ""
+
+#: core_rapid_stock_manager.php:307
+msgid "Low Stock Notification Text Color"
+msgstr ""
+
+#: core_rapid_stock_manager.php:308
+msgid "Text color when the stock are low in stock. Default "
+msgstr ""
+
+#: core_rapid_stock_manager.php:317
+msgid "Low Stock Highlighting threshold"
+msgstr ""
+
+#: core_rapid_stock_manager.php:318
+msgid "The minimum amount in stock when the highlighting starts. Default "
+msgstr ""
+
+#: core_rapid_stock_manager.php:326
+msgid "Row Color Highlight indicator"
+msgstr ""
+
+#: core_rapid_stock_manager.php:327
+msgid ""
+"Color which states when a item has been changed within the row. Default "
+msgstr ""
+
+#: core_rapid_stock_manager.php:336
+msgid "Column Color Highlight Indicator"
+msgstr ""
+
+#: core_rapid_stock_manager.php:337
+msgid ""
+"Color which states when a item has been changed within the Column. Variant "
+"products view. Default "
+msgstr ""
+
+#: core_rapid_stock_manager.php:346
+msgid "Search Filter Color"
+msgstr ""
+
+#: core_rapid_stock_manager.php:347
+msgid "Search Filter when item has been matched. Default "
+msgstr ""
+
+#: core_rapid_stock_manager.php:356
+msgid "Theme"
+msgstr ""
+
+#: core_rapid_stock_manager.php:358
+msgid "Default theme is dark."
+msgstr ""
+
+#: core_rapid_stock_manager.php:363
+msgid "Dark"
+msgstr ""
+
+#: core_rapid_stock_manager.php:364
+msgid "Light"
+msgstr ""
+
+#: core_rapid_stock_manager.php:374 woocommerce_rapid_stock_manager.php:2092
+msgid "Stock Report"
+msgstr ""
+
+#: core_rapid_stock_manager.php:380
+msgid "Column delimiter"
+msgstr ""
+
+#: core_rapid_stock_manager.php:382
+msgid "Delimiter for values in stock report."
+msgstr ""
+
+#: core_rapid_stock_manager.php:387
+msgid "Tab"
+msgstr ""
+
+#: core_rapid_stock_manager.php:388
+msgid "Semicolon (;)"
+msgstr ""
+
+#: core_rapid_stock_manager.php:389
+msgid "Pipe (|)"
+msgstr ""
+
+#: core_rapid_stock_manager.php:390
+msgid "Comma (,)"
+msgstr ""
+
+#: core_rapid_stock_manager.php:492
+msgid "Warehouse Inventory"
+msgstr ""
+
+#: core_rapid_stock_manager.php:732 woocommerce_rapid_stock_manager.php:1244
+msgid "Main product - total"
+msgstr ""
+
+#: core_rapid_stock_manager.php:813
+msgid "Stock"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:174
+#: woocommerce_rapid_stock_manager.php:2113
+msgid "Settings"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:984
+#: woocommerce_rapid_stock_manager.php:986
+#: woocommerce_rapid_stock_manager.php:989
+msgid "<<"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1059
+#: woocommerce_rapid_stock_manager.php:1062
+#: woocommerce_rapid_stock_manager.php:1065
+msgid ">>"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1456
+msgid ""
+"No attributes groups found. Have you set up global attributes and used them "
+"for variations? Main menu: Products > Attributes."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1465
+msgid "Select Variation set: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1471
+msgid "Display"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1538
+#: woocommerce_rapid_stock_manager.php:1864
+msgid "Try to reset search or search different text."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1539
+#: woocommerce_rapid_stock_manager.php:1865
+msgid "Searching for: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1541
+msgid "No products available to list. #1 "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1572
+#: woocommerce_rapid_stock_manager.php:2259
+msgid "Adjust Row"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1573
+#: woocommerce_rapid_stock_manager.php:2261
+msgid "Deduct Row"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1574
+#: woocommerce_rapid_stock_manager.php:2263
+msgid "Set Row"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1599
+msgid ""
+"Adjust will allow to subtract or add to the existing quantity so if users "
+"are buying it wont effect the quantity <br><br> Set will set the current "
+"quantity to the value you have entered.<br><br> Deduct - will deduct the "
+"current value with the value you have entered"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1602
+msgid "Edit main product details <br> Update entire row for the items"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1685
+msgid "Inventory audit"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1686
+msgid ""
+"Time frame and SKU are not required, however the file size may become too "
+"large and cause errors."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1695
+#: woocommerce_rapid_stock_manager.php:1696
+msgid "From"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1698
+#: woocommerce_rapid_stock_manager.php:1699
+msgid "To"
+msgstr "Tải"
+
+#: woocommerce_rapid_stock_manager.php:1702
+msgid "SKU filter"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1741
+#: woocommerce_rapid_stock_manager.php:1747
+msgid "\"To\" date must be higher then \"From\" date!"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1762
+msgid "Inventory audit list report"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1764
+#: woocommerce_rapid_stock_manager.php:1806
+#: woocommerce_rapid_stock_manager.php:1817
+msgid "Copy to clipboard"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1765
+#: woocommerce_rapid_stock_manager.php:1807
+#: woocommerce_rapid_stock_manager.php:1818
+msgid "Copied to clipboard!"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1775
+msgid "Export to CSV"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1779
+msgid "You need to specify filters! Either SKU or date range ot both."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1786
+msgid "Main Stock amounts"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1789
+msgid "variants of products and"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1790
+msgid "main products of page "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1792
+msgid ""
+"Please copy content of below white text areas and paste it to Excel (or "
+"Google\n"
+"\t\tDocs or Mac OS Numbers) spreadsheet and then you can perform sorting, "
+"filtering and calculations."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1797
+msgid "There is "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1798
+msgid "Products with low stock! (Below quantity "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1799
+msgid " in stock)"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1804
+msgid "List report "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1815
+msgid "Grid report"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1867
+msgid ""
+"Not products available to list. Please select different variation set. #2 "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1928
+#: woocommerce_rapid_stock_manager.php:2306
+msgid "Search"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1931
+#: woocommerce_rapid_stock_manager.php:2312
+msgid "Reset"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:1988
+msgid "Sort by:"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2049
+#: woocommerce_rapid_stock_manager.php:2080
+msgid "Simple Products"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2056
+msgid "Variation Products"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2086
+msgid "Variant Products"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2099
+msgid "Product Generator"
+msgstr "to lam"
+
+#: woocommerce_rapid_stock_manager.php:2105
+msgid "Transfer Warehouse"
+msgstr "du ma"
+
+#: woocommerce_rapid_stock_manager.php:2109
+msgid "Add Product"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2164
+msgid "Manage Stock: No"
+msgstr "Quản lý kho"
+
+#: woocommerce_rapid_stock_manager.php:2237
+msgid "Edit Main"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2557
+msgid "You Have No Simple Products to Display"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2581
+msgid "Filter below:"
+msgstr "Bộ lọc bên dưới"
+
+#: woocommerce_rapid_stock_manager.php:2583
+msgid "by title or Sku"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2584
+msgid "You have no products to Display"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2585
+msgid "This warehouse already exist."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2586
+msgid "Wait to generate document for printing.."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2629
+msgid "Made by "
+msgstr "Được làm bởi"
+
+#: woocommerce_rapid_stock_manager.php:2634
+msgid "Please select the warehouse value from the dropdown."
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2684
+#: woocommerce_rapid_stock_manager.php:2741
+msgid "Price: "
+msgstr "Giá:"
+
+#: woocommerce_rapid_stock_manager.php:2690
+#: woocommerce_rapid_stock_manager.php:2746
+msgid "Sale Price:  "
+msgstr "Giá bán"
+
+#: woocommerce_rapid_stock_manager.php:2698
+#: woocommerce_rapid_stock_manager.php:2754
+msgid "Last adjusted:  "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2700
+#: woocommerce_rapid_stock_manager.php:2756
+msgid "Adjusted:  "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2702
+#: woocommerce_rapid_stock_manager.php:2758
+msgid "Last set:  "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2704
+#: woocommerce_rapid_stock_manager.php:2760
+msgid "Set:  "
+msgstr "bộ"
+
+#: woocommerce_rapid_stock_manager.php:2710
+#: woocommerce_rapid_stock_manager.php:2780
+msgid "Shipping Class: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2714
+#: woocommerce_rapid_stock_manager.php:2784
+msgid "Dimensions: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2718
+#: woocommerce_rapid_stock_manager.php:2788
+msgid "Has Weight: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2728
+msgid "Variant Details for SKU"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2736
+msgid "Product id: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2737
+msgid "Variation id: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2763
+msgid "Manage Stock: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2769
+msgid "Stock Status: "
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2772
+msgid "In stock"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2772
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce_rapid_stock_manager.php:2775
+msgid "Back Orders Allowed: "
+msgstr "Đơn đặt hàng trở lại cho phép:"

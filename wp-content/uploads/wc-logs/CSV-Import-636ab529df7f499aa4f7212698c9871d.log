@@ -1,0 +1,5547 @@
+11-13-2017 @ 12:39:20 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:20 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 12:39:21 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:21 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 12:39:24 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:24 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 12:39:24 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 12:39:25 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:25 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 12:39:27 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:27 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 12:39:30 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:30 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 12:39:30 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:39:31 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:31 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:39:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:33 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:39:33 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:39:35 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:35 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:39:37 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:37 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:39:39 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:39 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 12:39:41 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:41 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 12:39:43 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:43 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 12:39:44 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:44 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 12:39:44 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:39:44 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:39:46 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:46 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:39:48 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:48 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:39:48 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:39:50 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:50 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:39:50 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 12:39:51 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:39:51 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 12:39:52 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:39:52 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:39:53 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:39:53 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:39:55 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:39:55 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:39:57 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:39:57 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:39:57 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 12:39:59 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:39:59 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 12:40:01 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:01 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 12:40:03 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:03 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 12:40:03 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:40:05 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:05 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 12:40:05 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:40:05 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:40:05 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:05 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:40:07 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:07 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:40:09 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:09 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:40:10 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:10 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:40:12 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:12 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:40:12 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:40:12 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 12:40:13 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:13 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 12:40:13 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:40:13 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:40:15 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:15 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:40:17 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:17 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:40:17 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 12:40:17 - > > (501) Term Papads (product_cat) exists? Array
+(
+    [term_id] => 88
+    [term_taxonomy_id] => 88
+)
+
+11-13-2017 @ 12:40:20 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:20 - > > (501) Term Papads (product_cat) exists? Array
+(
+    [term_id] => 88
+    [term_taxonomy_id] => 88
+)
+
+11-13-2017 @ 12:40:20 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:20 - > > (501) Term Soap (product_cat) exists? -
+11-13-2017 @ 12:40:22 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:22 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 12:40:22 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:22 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:40:22 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:40:25 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:25 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:40:25 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:25 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:40:25 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:25 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 12:40:26 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:26 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 12:40:28 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:28 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 12:40:28 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:28 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:30 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:30 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:31 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:31 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:33 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:35 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:35 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:36 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:36 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:38 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:38 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:40 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:40 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 12:40:40 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:40 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 12:40:40 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:40:42 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:42 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:40:43 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:43 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 12:40:43 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:40:43 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:43 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 12:40:44 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:44 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 12:40:45 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 12:40:45 - > > (501) Term Tooth Paste (product_cat) exists? Array
+(
+    [term_id] => 109
+    [term_taxonomy_id] => 109
+)
+
+11-13-2017 @ 12:40:46 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:46 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 12:40:47 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 12:40:47 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:47 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:40:47 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:40:48 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:48 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:40:48 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:48 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:40:48 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 12:40:48 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 12:40:48 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:40:50 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:40:50 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:40:50 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 12:40:50 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:50 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 12:40:50 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:40:51 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:51 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 12:40:51 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:40:52 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:52 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:40:52 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:40:54 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:54 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:40:54 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:54 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 12:40:54 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 12:40:54 - > > (501) Term Hair &amp; Body (product_cat) exists? -
+11-13-2017 @ 12:40:56 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:40:56 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 12:40:56 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 12:40:56 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 12:40:58 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:58 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 12:40:58 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:40:59 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:40:59 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:01 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:01 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:03 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:03 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:05 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:05 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:05 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:41:06 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:06 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:41:08 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:08 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 12:41:08 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:41:10 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:10 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:41:11 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:11 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:41:11 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:41:11 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:13 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:13 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:41:15 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:15 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:41:15 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:17 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:17 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:41:18 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:18 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:41:18 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 12:41:20 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:20 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:41:20 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:41:20 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 12:41:21 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:21 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 12:41:22 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:22 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 12:41:22 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 12:41:22 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 12:41:22 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 12:41:22 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 12:41:23 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:23 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:23 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:23 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 12:41:23 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:25 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:25 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:25 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:25 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 12:41:27 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:27 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 12:41:27 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 12:41:28 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:28 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 12:41:29 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:29 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 12:41:30 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:30 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:41:31 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:31 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:41:31 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:33 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:34 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:34 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:36 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:36 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:38 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:38 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 12:41:38 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:40 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:40 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:42 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:42 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 12:41:45 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:45 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:45 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:45 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 12:41:46 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:46 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 12:41:46 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:46 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:41:46 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:48 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:48 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:48 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:48 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 12:41:50 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:50 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:50 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:50 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 12:41:50 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:41:52 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:52 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:52 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:52 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:41:53 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:53 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 12:41:53 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 12:41:54 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:41:54 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:41:54 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 12:41:55 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:41:55 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 12:41:57 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:41:57 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 12:41:57 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:57 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:41:57 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:41:57 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:41:59 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:41:59 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 12:41:59 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:41:59 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 12:41:59 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 12:42:00 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 12:42:00 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 12:42:00 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:42:00 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:42:00 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:42:02 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:42:02 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 12:42:02 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:42:04 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:42:04 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:42:06 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:42:06 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 12:42:06 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:42:06 - > > (501) Term Fresh Chapati, Roti &amp; Naan (product_cat) exists? -
+11-13-2017 @ 12:42:06 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 12:42:06 - > > (501) Term Indo Chinese (product_cat) exists? Array
+(
+    [term_id] => 120
+    [term_taxonomy_id] => 120
+)
+
+11-13-2017 @ 12:42:07 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 12:42:07 - > > (501) Term Indo Chinese (product_cat) exists? Array
+(
+    [term_id] => 120
+    [term_taxonomy_id] => 120
+)
+
+11-13-2017 @ 12:42:08 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 12:42:08 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:20:48 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:48 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 13:20:49 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:49 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 13:20:50 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:50 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 13:20:50 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:20:52 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:52 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:20:53 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:53 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:20:55 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:55 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:20:55 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:20:56 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:56 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:20:58 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:20:58 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:20:58 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:21:00 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:00 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:21:01 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:01 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:21:03 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:03 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:21:04 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:04 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:21:05 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:05 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:21:07 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:07 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:21:07 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:21:07 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:09 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:09 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:11 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:11 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:11 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:21:12 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:12 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:21:12 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:21:14 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:14 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:21:14 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:14 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:21:16 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:16 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:21:18 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:18 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:21:19 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:19 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:21:19 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:21:21 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:21 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:21:23 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:23 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:21:24 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:24 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:21:24 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:21:26 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:26 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:21:26 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:21:26 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:21:26 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:26 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:28 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:28 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:29 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:29 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:31 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:31 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:33 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:21:33 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:21:33 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:21:34 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:34 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:21:34 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:21:34 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:21:36 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:36 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:21:37 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:37 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:21:37 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:21:37 - > > (501) Term Papads (product_cat) exists? Array
+(
+    [term_id] => 88
+    [term_taxonomy_id] => 88
+)
+
+11-13-2017 @ 13:21:39 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:39 - > > (501) Term Papads (product_cat) exists? Array
+(
+    [term_id] => 88
+    [term_taxonomy_id] => 88
+)
+
+11-13-2017 @ 13:21:39 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:39 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:21:40 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:40 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:21:40 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:40 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:21:40 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:21:42 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:42 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:21:42 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:42 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:21:42 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:42 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:21:43 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:43 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:21:45 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:45 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:21:45 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:45 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:46 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:46 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:47 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:47 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:49 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:49 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:50 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:50 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:51 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:51 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:53 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:53 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:54 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:54 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:21:54 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:54 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:21:54 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:21:56 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:56 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:21:56 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:21:56 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 13:21:56 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:21:56 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:56 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 13:21:57 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:57 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 13:21:57 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 13:21:57 - > > (501) Term Tooth Paste (product_cat) exists? Array
+(
+    [term_id] => 109
+    [term_taxonomy_id] => 109
+)
+
+11-13-2017 @ 13:21:59 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:21:59 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 13:21:59 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:21:59 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:21:59 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:21:59 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:22:01 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:22:01 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:22:01 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:01 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:22:01 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:22:01 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:22:01 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:22:02 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:22:02 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:22:02 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:22:02 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:02 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:22:02 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:22:04 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:04 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 13:22:04 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:22:05 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:05 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:22:05 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:22:07 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:07 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:22:07 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:22:07 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:22:07 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:22:07 - > > (501) Term Hair &amp; Body (product_cat) exists? Array
+(
+    [term_id] => 126
+    [term_taxonomy_id] => 126
+)
+
+11-13-2017 @ 13:22:09 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:22:09 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:22:09 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:22:09 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 13:22:10 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:10 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:22:10 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:11 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:11 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:13 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:13 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:14 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:14 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:16 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:16 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:16 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:22:17 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:17 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:22:18 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:18 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:22:18 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:22:20 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:20 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:22:21 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:21 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:22:21 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:22:21 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:23 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:23 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:22:24 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:24 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:22:24 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:26 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:26 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:22:28 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:28 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:22:28 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:22:29 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:29 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:22:29 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:22:29 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 13:22:29 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:29 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:22:30 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:30 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:22:30 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:22:30 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:22:30 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 13:22:30 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 13:22:32 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:22:32 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:22:32 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:32 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:22:32 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:33 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:22:33 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:22:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:34 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:22:35 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:35 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:22:35 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:22:36 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:36 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:22:38 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:38 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:22:38 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:38 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:22:39 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:39 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:22:39 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:41 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:41 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:42 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:42 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:44 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:44 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:46 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:46 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:22:46 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:47 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:47 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:49 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:49 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:22:52 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:22:52 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:22:52 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:52 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:22:54 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:54 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:22:54 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:22:54 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:22:54 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:22:56 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:22:56 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:22:56 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:22:56 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:23:00 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:00 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:23:00 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:23:00 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:23:00 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:23:02 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:02 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:23:02 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:23:02 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:23:03 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:23:03 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:23:03 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 13:23:03 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:23:03 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:23:03 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:23:05 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:23:05 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:23:06 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:23:06 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:23:06 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:23:06 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:23:06 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:06 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:23:08 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:23:08 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:23:08 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:23:08 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 13:23:08 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:23:09 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:23:09 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:23:09 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:09 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:23:09 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:23:11 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:11 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:23:11 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:23:13 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:13 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:23:17 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:17 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:23:17 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:23:17 - > > (501) Term Fresh Chapati, Roti &amp; Naan (product_cat) exists? Array
+(
+    [term_id] => 127
+    [term_taxonomy_id] => 127
+)
+
+11-13-2017 @ 13:23:17 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:23:17 - > > (501) Term Indo Chinese (product_cat) exists? Array
+(
+    [term_id] => 120
+    [term_taxonomy_id] => 120
+)
+
+11-13-2017 @ 13:23:19 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:23:19 - > > (501) Term Indo Chinese (product_cat) exists? Array
+(
+    [term_id] => 120
+    [term_taxonomy_id] => 120
+)
+
+11-13-2017 @ 13:23:20 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:23:20 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:24:35 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:24:35 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 13:24:43 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:24:43 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 13:24:53 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:24:53 - > > (501) Term Lentil &amp; Dal (product_cat) exists? Array
+(
+    [term_id] => 122
+    [term_taxonomy_id] => 122
+)
+
+11-13-2017 @ 13:24:54 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:25:04 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:25:04 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:25:15 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:25:15 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:25:28 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:25:28 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:25:30 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:25:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:25:33 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:25:42 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:25:42 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:25:46 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:25:50 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:25:50 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:25:55 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:25:55 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:26:06 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:26:06 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:26:16 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:26:16 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:26:25 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:26:25 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:26:36 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:26:36 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:26:36 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:26:40 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:26:45 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:26:45 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:26:52 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:26:52 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:26:53 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:27:03 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:27:03 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:27:05 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:27:12 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:27:12 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:27:16 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:27:16 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:27:18 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:27:18 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:27:27 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:27:27 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:27:35 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:27:35 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:27:37 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:27:42 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:27:42 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:27:52 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:27:52 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:28:00 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:28:00 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:28:04 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:28:07 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:28:07 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:28:08 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:28:11 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:28:13 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:28:13 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:28:17 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:28:17 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:28:27 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:28:27 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:28:36 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:28:36 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:28:46 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:28:46 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:28:48 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:28:51 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:28:54 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:28:54 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:28:58 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:28:59 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:29:03 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:29:03 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:29:13 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:29:13 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:29:14 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:29:15 - > > (501) Term Papads (product_cat) exists? Array
+(
+    [term_id] => 88
+    [term_taxonomy_id] => 88
+)
+
+11-13-2017 @ 13:29:19 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:29:19 - > > (501) Term Papads (product_cat) exists? Array
+(
+    [term_id] => 88
+    [term_taxonomy_id] => 88
+)
+
+11-13-2017 @ 13:29:20 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:29:20 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:29:27 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:29:27 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:29:29 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:29:29 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:29:30 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:29:32 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:29:32 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:29:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:29:33 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:29:34 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:29:34 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:29:38 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:29:38 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:29:47 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:29:47 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:29:48 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:29:48 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:29:57 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:29:57 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:30:08 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:30:08 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:30:19 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:30:19 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:30:34 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:30:34 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:30:41 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:30:41 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:30:50 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:30:50 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:30:58 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:30:58 - > > (501) Term Incense &amp; Pooja Items (product_cat) exists? Array
+(
+    [term_id] => 73
+    [term_taxonomy_id] => 73
+)
+
+11-13-2017 @ 13:31:01 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:31:01 - > > (501) Term Snacks (product_cat) exists? Array
+(
+    [term_id] => 91
+    [term_taxonomy_id] => 91
+)
+
+11-13-2017 @ 13:31:04 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:31:10 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:31:10 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:31:13 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:31:13 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 13:31:14 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:31:15 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:31:15 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 13:31:19 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:31:19 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 13:31:25 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 13:31:26 - > > (501) Term Tooth Paste (product_cat) exists? Array
+(
+    [term_id] => 109
+    [term_taxonomy_id] => 109
+)
+
+11-13-2017 @ 13:31:29 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:31:29 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 13:31:29 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:31:30 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:31:30 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:31:32 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:31:37 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:31:37 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:31:38 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:31:38 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:31:38 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:31:41 - > > (501) Term Flour (product_cat) exists? Array
+(
+    [term_id] => 79
+    [term_taxonomy_id] => 79
+)
+
+11-13-2017 @ 13:31:43 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:31:46 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:31:46 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:31:46 - > > (501) Term Sweets (product_cat) exists? Array
+(
+    [term_id] => 90
+    [term_taxonomy_id] => 90
+)
+
+11-13-2017 @ 13:31:47 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:31:47 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:31:49 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:31:54 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:31:54 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 13:32:01 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:32:03 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:32:03 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:32:04 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:32:11 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:32:11 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:32:14 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:32:14 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:32:15 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:32:16 - > > (501) Term Hair &amp; Body (product_cat) exists? Array
+(
+    [term_id] => 126
+    [term_taxonomy_id] => 126
+)
+
+11-13-2017 @ 13:32:21 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:32:21 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:32:22 - > > (501) Term Soap (product_cat) exists? Array
+(
+    [term_id] => 125
+    [term_taxonomy_id] => 125
+)
+
+11-13-2017 @ 13:32:23 - > > (501) Term Health Drink (product_cat) exists? Array
+(
+    [term_id] => 110
+    [term_taxonomy_id] => 110
+)
+
+11-13-2017 @ 13:32:31 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:32:31 - > > (501) Term Mukhwas (product_cat) exists? Array
+(
+    [term_id] => 89
+    [term_taxonomy_id] => 89
+)
+
+11-13-2017 @ 13:32:32 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:32:41 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:32:41 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:32:51 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:32:51 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:33:00 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:00 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:33:10 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:10 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:33:10 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:33:16 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:16 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:33:23 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:23 - > > (501) Term Pickles (product_cat) exists? Array
+(
+    [term_id] => 85
+    [term_taxonomy_id] => 85
+)
+
+11-13-2017 @ 13:33:28 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:33:33 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:33 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:33:42 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:42 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:33:42 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:33:42 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:33:45 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:45 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:33:51 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:51 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:33:55 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:33:56 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:33:56 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:34:01 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:34:01 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:34:03 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:34:09 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:34:09 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:34:10 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:34:11 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 13:34:14 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:34:16 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:34:18 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:34:18 - > > (501) Term Dry Fruits &amp; Nuts (product_cat) exists? Array
+(
+    [term_id] => 84
+    [term_taxonomy_id] => 84
+)
+
+11-13-2017 @ 13:34:19 - > > (501) Term Spices Loose (product_cat) exists? Array
+(
+    [term_id] => 82
+    [term_taxonomy_id] => 82
+)
+
+11-13-2017 @ 13:34:20 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:34:22 - > > (501) Term Oils (product_cat) exists? Array
+(
+    [term_id] => 87
+    [term_taxonomy_id] => 87
+)
+
+11-13-2017 @ 13:34:24 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 13:34:27 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:34:27 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:34:28 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:34:28 - > > (501) Term Rice (product_cat) exists? Array
+(
+    [term_id] => 80
+    [term_taxonomy_id] => 80
+)
+
+11-13-2017 @ 13:34:30 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:34:36 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:34:36 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:34:41 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:34:41 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:34:46 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:34:46 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:34:47 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:34:56 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:34:56 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:35:06 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:35:06 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:35:09 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:35:10 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:35:15 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:35:15 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:35:21 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:35:25 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:35:25 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:35:35 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:35:35 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:35:44 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:35:44 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:35:53 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:35:53 - > > (501) Term Spices Packaged (product_cat) exists? Array
+(
+    [term_id] => 97
+    [term_taxonomy_id] => 97
+)
+
+11-13-2017 @ 13:35:57 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:36:02 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:02 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:36:13 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:13 - > > (501) Term Ready To Eat (product_cat) exists? Array
+(
+    [term_id] => 69
+    [term_taxonomy_id] => 69
+)
+
+11-13-2017 @ 13:36:37 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:36:37 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:36:38 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:38 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:36:44 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:44 - > > (501) Term Soups &amp; Noodles (product_cat) exists? Array
+(
+    [term_id] => 93
+    [term_taxonomy_id] => 93
+)
+
+11-13-2017 @ 13:36:47 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:36:47 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:36:49 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:36:51 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:36:51 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:36:51 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:51 - > > (501) Term Beans (product_cat) exists? Array
+(
+    [term_id] => 78
+    [term_taxonomy_id] => 78
+)
+
+11-13-2017 @ 13:36:53 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:36:53 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:36:53 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:53 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:36:54 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:36:56 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:36:56 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:36:57 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:57 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:36:59 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:36:59 - > > (501) Term Instant Mixes (product_cat) exists? Array
+(
+    [term_id] => 81
+    [term_taxonomy_id] => 81
+)
+
+11-13-2017 @ 13:36:59 - > > (501) Term Chutneys &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 86
+    [term_taxonomy_id] => 86
+)
+
+11-13-2017 @ 13:36:59 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:36:59 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:36:59 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:37:01 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:37:01 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:37:04 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:37:04 - > > (501) Term Ayurvedic Dietary Supplement (product_cat) exists? Array
+(
+    [term_id] => 106
+    [term_taxonomy_id] => 106
+)
+
+11-13-2017 @ 13:37:04 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:37:04 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:37:04 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:37:04 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:37:06 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:37:06 - > > (501) Term Paste &amp; Sauces (product_cat) exists? Array
+(
+    [term_id] => 118
+    [term_taxonomy_id] => 118
+)
+
+11-13-2017 @ 13:37:06 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:37:06 - > > (501) Term Creams (product_cat) exists? Array
+(
+    [term_id] => 108
+    [term_taxonomy_id] => 108
+)
+
+11-13-2017 @ 13:37:11 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:37:13 - > > (501) Term Health &amp; Beauty (product_cat) exists? Array
+(
+    [term_id] => 70
+    [term_taxonomy_id] => 70
+)
+
+11-13-2017 @ 13:37:13 - > > (501) Term Heena &amp; Hair Colours (product_cat) exists? Array
+(
+    [term_id] => 111
+    [term_taxonomy_id] => 111
+)
+
+11-13-2017 @ 13:37:18 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:37:18 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:37:20 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:37:24 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:37:24 - > > (501) Term Sweets Packaged (product_cat) exists? Array
+(
+    [term_id] => 95
+    [term_taxonomy_id] => 95
+)
+
+11-13-2017 @ 13:37:25 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:37:34 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:37:34 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:37:44 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:37:44 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
+11-13-2017 @ 13:37:45 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:37:45 - > > (501) Term Fresh Chapati, Roti &amp; Naan (product_cat) exists? Array
+(
+    [term_id] => 127
+    [term_taxonomy_id] => 127
+)
+
+11-13-2017 @ 13:37:46 - > > (501) Term Tea &amp; Coffee (product_cat) exists? Array
+(
+    [term_id] => 83
+    [term_taxonomy_id] => 83
+)
+
+11-13-2017 @ 13:37:49 - > > (501) Term Indo Chinese (product_cat) exists? Array
+(
+    [term_id] => 120
+    [term_taxonomy_id] => 120
+)
+
+11-13-2017 @ 13:37:52 - > > (501) Term Grocery (product_cat) exists? Array
+(
+    [term_id] => 68
+    [term_taxonomy_id] => 68
+)
+
+11-13-2017 @ 13:37:52 - > > (501) Term Indo Chinese (product_cat) exists? Array
+(
+    [term_id] => 120
+    [term_taxonomy_id] => 120
+)
+
+11-13-2017 @ 13:38:02 - > > (501) Term Sweets &amp; Snacks (product_cat) exists? Array
+(
+    [term_id] => 72
+    [term_taxonomy_id] => 72
+)
+
+11-13-2017 @ 13:38:02 - > > (501) Term Snacks Packaged (product_cat) exists? Array
+(
+    [term_id] => 94
+    [term_taxonomy_id] => 94
+)
+
